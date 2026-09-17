@@ -33,4 +33,4 @@ This repository is a technical reference and collection of reproductible CTF sol
 
 ## Disclaimer
 
-All techniques in this repository are intended for authorized CTF environments , educational labs ad system where testing is permitted  
+All techniques in this repository are intended for authorized CTF environments , educational labs and system where testing is permitted  
