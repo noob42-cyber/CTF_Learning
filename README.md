@@ -13,13 +13,13 @@ A collection of CTF solutions, technical notes and methodology covering differen
 ## Writeups
 
 Challenge writeups mainly covers : <br>
-1.Challenge description <br>
-2.Intial Analysis <br>
-3.Enumeration / Investigation <br>
-4.Vulnerability <br>
-5.Solution <br>
-6.Explaination <br>
-7.Relevant Commands or code <br>
+### 1.Challenge description <br>
+### 2.Intial Analysis <br>
+### 3.Enumeration / Investigation <br>
+### 4.Vulnerability <br>
+### 5.Solution <br>
+### 6.Explaination <br>
+### 7.Relevant Commands or code <br>
 
 
 ## Platforms 
