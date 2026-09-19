@@ -4,7 +4,7 @@
 
 This challenge is from picoCTF 2026.Here you got the encrypted flag and an image.
 
-Here we have to find RSA private key using that image because RSA public is somehow lost
+Here we have to find RSA private key using that image where private RSA Key is hidden
 
 ___
 
