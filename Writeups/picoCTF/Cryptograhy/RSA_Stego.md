@@ -2,7 +2,7 @@
 
 ## Description
 
-This challange is from picoCTF 2026.Here you got the encrypted flag and an image.
+This challenge is from picoCTF 2026.Here you got the encrypted flag and an image.
 
 Here we have to find RSA private key using that image because RSA public is somehow lost
 
@@ -28,7 +28,7 @@ exiftool image.jpg
 So i run 
 
 ``` bash 
-echo "Comment" | xxd -r -p
+echo "<hex_string>" | xxd -r -p
  ```
 3. After running that command i got RSA Private Key 
 
